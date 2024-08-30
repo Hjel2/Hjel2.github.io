@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Hjel2
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Hjel2/snn_uncertainty
+  - Hjel2/arch-neural-backdoor-first-principles
