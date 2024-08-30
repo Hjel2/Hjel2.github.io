@@ -5,7 +5,7 @@ permalink: /projects/
 description: A selection of interesting projects I've worked on.
 nav: true
 nav_order: 3
-display_categories: [Cambridge, miniproject]
+display_categories: [Cambridge]
 horizontal: false
 ---
 
