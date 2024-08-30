@@ -24,7 +24,7 @@ I'm a Cambridge computer science graduate. At undergraduate, I achieved a **firs
 
 ## Research interests
 
-I'm an aspiring machine learning researcher, and have undertaken two 12-month research internships at the Cambridge Computer Lab. My research interests are primarily the theoretical branch of machine learning:
+I'm an aspiring machine learning researcher, and have undertaken two 12-week summer research internships at the Cambridge Computer Lab. My research interests are primarily the theoretical branch of machine learning:
 
 - uncertainty estimation (part II dissertation)
 - theory of deep learning (part II module project)
