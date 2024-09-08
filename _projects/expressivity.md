@@ -6,10 +6,9 @@ img: # <!-- TODO tikz something! -->
 importance: 2
 category: Cambridge
 bibliography: expressivity.bib
-github: //www.github.com/Hjel2/dnn_miniproject
 ---
 
-This is a writeup of my miniproject for the [DNN](https://www.cl.cam.ac.uk/teaching/2324/DNN/) module.
+This is a writeup of my miniproject for the [DNN](https://www.cl.cam.ac.uk/teaching/2324/DNN/) module. The source code is available [on github](https://github.com/Hjel2/dnn-expressivity).
 > It's great work, and you clearly went beyond the brief.
 > -Ferenc Huszár
 
