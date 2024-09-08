@@ -71,7 +71,14 @@
     <!-- Content -->
     <div class="post distill">
       <d-title>
-        <h1>{{ page.title }}</h1>
+        <h1>{{ page.title }}{% if page.github %}
+          <a
+            href="{{ page.github }}"
+            target="_blank"
+            class="float-right"
+            ><i class="fa-brands fa-github"></i
+          ></a>
+        {% endif %}</h1>
         <p>{{ page.description }}</p>
       </d-title>
       {% if page.authors %}
