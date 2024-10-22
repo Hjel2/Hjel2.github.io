@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've started the my masters at Oxford
+I've started my masters at Oxford
