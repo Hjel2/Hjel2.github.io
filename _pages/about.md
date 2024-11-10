@@ -21,9 +21,12 @@ I'm a Cambridge computer science graduate. At undergraduate, I achieved a **firs
 
 ## current focus
 
-My academic interests are a small superset of the theoretical branch of machine learning.
+I'm interested in work with motivating practical applications and optionally underpinning theoretical justification.
+To this end, much of my recent work and research interests are theoretical machine learning:
 
 - mechanistic interpretability (reading group)
 - uncertainty estimation (part II dissertation)
 - theory of deep learning (part II module project)
 - machine learning security (summer 2023 projects)
+
+Much of my free time is spend reading articles, books and papers on interesting topics briefly mentioned elsewhere.
