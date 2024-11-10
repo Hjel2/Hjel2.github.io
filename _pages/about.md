@@ -19,10 +19,11 @@ social: false # includes social icons at the bottom of the page
 
 I'm a Cambridge computer science graduate. At undergraduate, I achieved a **first with distinction**, ranking 5/113. I'm currently undertaking a [masters](https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science) at Merton College, Oxford.
 
-## research interests
+## current focus
 
-I have undertaken two 12-week summer research internships at the Cambridge Computer Lab. My research interests are primarily the theoretical branch of machine learning:
+My academic interests are a small superset of the theoretical branch of machine learning.
 
+- mechanistic interpretability (reading group)
 - uncertainty estimation (part II dissertation)
 - theory of deep learning (part II module project)
 - machine learning security (summer 2023 projects)
