@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-[My paper](https://arxiv.org/abs/2402.06957) has been accepted to [S&P 2025](https://sp2025.ieee-security.org/)!
+[My paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a060/21B7R5Paz60) has been accepted to [S&P 2025](https://sp2025.ieee-security.org/)!
