@@ -21,6 +21,6 @@ I'm a Cambridge computer science graduate. At undergraduate, I achieved a **firs
 
 ## current focus
 
-I'm interested in open problems with strong motivating practical applicaitions, and optionally underpinning theory. Much of my recent work has chased this in research, through theoretical machine learning. I am now looking for interesting problems into industry.
+I'm interested in open problems with strong motivating practical applicaitions, and optionally underpinning theory. Much of my recent work has chased this in research, through machine learning security, and theoretical machine learning.
 
 Much of my free time is spend reading articles, papers, or doing small projects on interesting topics briefly mentioned elsewhere. Outside of work, I travel, enjoy board games, reading, running, formals, and many other activies which help me enjoy life.
