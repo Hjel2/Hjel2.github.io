@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A selection of interesting projects I've worked on.
+description: An interesting subset of projects I've worked on
 nav: true
 nav_order: 3
 display_categories: [Oxford, Cambridge]
