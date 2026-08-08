@@ -25,4 +25,4 @@ I'm interested in open problems with strong motivating practical applicaitions, 
 
 ## personal life
 
-Much of my free time is spend reading articles, papers, or doing small projects on interesting topics briefly mentioned elsewhere. Outside of work, I travel, enjoy board games, reading, running, ricing, shopping, and many other activies.
+Much of my free time is spend reading articles, papers, or doing small projects on interesting topics briefly mentioned elsewhere. Outside of work, I travel, enjoy board games, reading, running, shopping, and many other activies.
